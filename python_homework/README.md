@@ -2,18 +2,18 @@
 
 | 文件 | 题目要求 | 关键知识点 |
 | --- | --- | --- |
-| `task1_set_union.py` | 输入包含若干集合的列表，输出这些集合的并集 | `reduce()` + `lambda` |
-| `task2_geometric_sum.py` | 输入等比数列首项、公比（不等于 1 且小于 36 的正整数）和自然数 n，输出前 n 项和 | 内置函数 `int()` |
-| `task3_most_frequent_char.py` | 输入字符串，输出出现次数最多的字符及次数 | 字典 |
-| `task4_char_frequency.py` | 输入任意长字符串，统计字母和数字频次，以字典保存并输出 | 字典 |
+| `集合并集.py` | 输入包含若干集合的列表，输出这些集合的并集 | `reduce()` + `lambda` |
+| `等比数列求和.py` | 输入等比数列首项、公比（不等于 1 且小于 36 的正整数）和自然数 n，输出前 n 项和 | 内置函数 `int()` |
+| `最频字符.py` | 输入字符串，输出出现次数最多的字符及次数 | 字典 |
+| `字母数字频次.py` | 输入任意长字符串，统计字母和数字频次，以字典保存并输出 | 字典 |
 
 ## 运行方式
 
 ```bash
-python task1_set_union.py
-python task2_geometric_sum.py
-python task3_most_frequent_char.py
-python task4_char_frequency.py
+python 集合并集.py
+python 等比数列求和.py
+python 最频字符.py
+python 字母数字频次.py
 ```
 
 ## 示例
